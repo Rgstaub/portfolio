@@ -1,0 +1,43 @@
+/*
+
+Colors {
+	#94B5D6; /*light blue*/     /*
+	#774F8D; /*purple*/      	/*
+	#CCA234; /*mustard*/		/*
+	#AE9749; /*tan*/			/*
+	#233B5D; /*navy*/			/*
+	#EFE8E0; /*white-ish*/		/*
+}
+====================================================*/
+.swatch {
+	height: 100px;
+}
+.tan {
+	background-color: #AE9749; /*tan*/
+}
+.purple {
+	background-color: #774F8D; /*purple*/
+}
+.navy {
+	background-color: #233B5D; /*navy*/
+}
+.mustard {
+	background-color: #CCA234; /*mustard*/
+}
+.light-blue {
+	background-color: #94B5D6; /*light blue*/
+}
+.white-ish {
+	background-color: #EFE8E0; /*white-ish*/
+}
+/*==================================================*/
+
+body {
+	height: 100%;
+	background-color: #233B5D; /*navy*/
+}
+
+}
+.element {
+	/*padding: 10px;*/
+}
