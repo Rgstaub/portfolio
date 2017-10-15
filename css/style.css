@@ -237,6 +237,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-features .feature-left {
   margin-bottom: 40px;
   float: left;
+  margin-left: 37%;
 }
 @media screen and (max-width: 992px) {
   #fh5co-features .feature-left {
@@ -265,6 +266,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
+  
 }
 #fh5co-features .feature-left h3 {
   font-size: 24px;
@@ -280,6 +282,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left p a {
   color: #000 !important;
+}
+
+.centered {
+  margin-left: 37%;
 }
 
 #fh5co-about,
