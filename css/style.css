@@ -65,6 +65,11 @@ p {
   margin-bottom: 30px;
 }
 
+
+div.bump-left-2 {
+  margin-left: 33%;
+}
+
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
   font-family: 'Quicksand', sans-serif;
@@ -237,11 +242,12 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-features .feature-left {
   margin-bottom: 40px;
   float: left;
-  margin-left: 37%;
+  margin-left:37%;
 }
 @media screen and (max-width: 992px) {
   #fh5co-features .feature-left {
     margin-bottom: 30px;
+
   }
 }
 #fh5co-features .feature-left .icon {
@@ -256,6 +262,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+
 }
 #fh5co-features .feature-left .icon i {
   font-size: 50px;
@@ -266,7 +273,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
-  
 }
 #fh5co-features .feature-left h3 {
   font-size: 24px;
@@ -282,10 +288,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left p a {
   color: #000 !important;
-}
-
-.centered {
-  margin-left: 37%;
 }
 
 #fh5co-about,
@@ -1298,6 +1300,14 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+
+#fh5co-features div.bump-left-2 {
+  margin-left: 35%;
+}
+
+#fh5co-features div.bump-left-1 {
+  margin-left: 36%;
 }
 
 /*# sourceMappingURL=style.css.map */
